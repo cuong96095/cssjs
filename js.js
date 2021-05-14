@@ -1,5 +1,5 @@
 
-// Copyright 2012 Google Inc. All rights reserved.
+// Copyright 2012 Google Inc.duansaigonfortune.com All rights reserved.
 (function(){
 
 var data = {
